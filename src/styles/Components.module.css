@@ -1,0 +1,42 @@
+.footer {
+    background-color: rgb(212, 117, 21);
+    color: white;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.navbar {
+    background-color: rgb(212, 117, 21);
+    color: white;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#logo {
+    font-size: 300%;
+    font-weight: 700;
+    padding-left: 1.75%;
+}
+
+#links {
+    padding-right: 1.75%;
+}
+
+.navbar a {
+    color: white;
+    margin-left: 1em;
+    text-decoration: none;
+    transition: .3s;
+
+}
+
+.navbar a:hover {
+    color: grey;
+}

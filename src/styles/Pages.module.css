@@ -1,0 +1,44 @@
+.home {
+    background-color: white;
+    color: black;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+}
+
+.objetos {
+    background-color: white;
+    color: black;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 80%;
+}
+
+.Link {
+    padding: 1%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.descricao {
+    background-color: white;
+    color: black;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+}
+
+.descricao p {
+    padding: 1%;
+}
